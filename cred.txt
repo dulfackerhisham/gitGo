@@ -1,2 +1,0 @@
-username = dfacker
-password = boobaloo
